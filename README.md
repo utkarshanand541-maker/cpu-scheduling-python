@@ -41,4 +41,5 @@ python cpu_scheduler.py
 ### Round Robin
 ![Round Robin](ROUND_ROBIN.png)
 
-
+### Average Time Output
+![Average](avg.png)
