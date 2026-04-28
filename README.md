@@ -41,6 +41,4 @@ python cpu_scheduler.py
 ### Round Robin
 ![Round Robin](ROUND_ROBIN.png)
 
-### AVERAGE TAT and WT
-![AVG](avg.png)
 
