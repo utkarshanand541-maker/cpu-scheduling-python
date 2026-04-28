@@ -19,7 +19,7 @@ This project simulates CPU Scheduling algorithms used in Operating Systems.
 ## ▶️ How to Run
 
 ```bash
-python main.py
+python cpu_scheduler.py
 ```
 
 ## 📊 Sample Output
