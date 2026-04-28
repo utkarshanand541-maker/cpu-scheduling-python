@@ -30,3 +30,14 @@ python main.py
 
 * Python
 
+## 📊 Output Screenshots
+
+### FCFS
+![FCFS](FCFS.png)
+
+### SJF
+![SJF](SJF.png)
+
+### Round Robin
+![Round Robin](ROUND_ROBIN.png)
+
