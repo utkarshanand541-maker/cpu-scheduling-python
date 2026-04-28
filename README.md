@@ -39,5 +39,5 @@ python cpu_scheduler.py
 ![SJF](SJF.png)
 
 ### Round Robin
-![Round Robin](round-robin.png)
+![Round Robin](ROUND_ROBIN.png)
 
