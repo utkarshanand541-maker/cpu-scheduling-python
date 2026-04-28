@@ -42,6 +42,12 @@ print("\nProcess\tWT\tTAT")
 for r in res:
     print(f"{r['id']}\t{r['waiting']}\t{r['turnaround']}")
 
+avg_wt = sum(p["waiting"] for p in res) / len(res)
+avg_tat = sum(p["turnaround"] for p in res) / len(res)
+
+print(f"\nAverage Waiting Time: {avg_wt}")
+print(f"Average Turnaround Time: {avg_tat}")
+
 print("\nGantt Chart:")
 for g in gantt:
     print(f"| {g[0]} ", end="")
